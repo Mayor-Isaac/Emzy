@@ -1,4 +1,4 @@
-# Dessert Shopping Webpage
+<!-- # Dessert Shopping Webpage
 
 ![Design preview for the Dessert Shopping App](./preview.jpg)
 
@@ -10,4 +10,4 @@
 
 ## The challenge
 
-Your challenge is to build out this multi-page space tourism website and get it looking as close to the design as possible.
+Your challenge is to build out this multi-page space tourism website and get it looking as close to the design as possible. -->
