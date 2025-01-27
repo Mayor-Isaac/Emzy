@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer components {
+  .logo {
+    /* padding:; */
+  }
   .loader {
     width: 45px;
     aspect-ratio: 0.75;
